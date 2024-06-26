@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cat Nabulime</h1>
-<h3 align="center">Data Storyteller & Creative Technologist</h3>
+<h3 align="center">Aspiring Data Storyteller & Creative Technologist</h3>
 
 - 🔭 I’m currently working on **building up my Github profile with data stories**
 
